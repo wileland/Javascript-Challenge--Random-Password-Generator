@@ -1,3 +1,8 @@
+After designating each character as an array- I created several functions for the pw generator to function as specified. 
+
+Assignment parameters:
+
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
